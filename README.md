@@ -4,10 +4,9 @@
 This Jupyter notebook provides a quick tutorial on using the scikit-learn library for machine learning in Python. It uniquely combines discussions on the impact of hardware, specifically processing cores, with practical machine learning applications. Key sections include:
 
 1. **Chat GPT**: An introduction to the Chat GPT concept, setting the stage for the tutorial.
-2. **Why Cores Matter**: This section shows the significance of processing cores in machine learning, providing insights into computational efficiency and performance.
-3. **10 Cores vs. 40 Cores**: A comparative study on the performance and implications of using 10 and 40 processing cores in machine learning tasks.
-4. **Predictions**: Focused on making predictions using machine learning models, this section offers hands-on examples and discusses various techniques and methodologies.
-5. **Scoring**: A deep dive into evaluating machine learning models, covering different scoring metrics and evaluation strategies.
+2. **Why Cores Matter**: This section shows the significance of processing cores in machine learning, providing insights into computational efficiency and performance.  A comparative study on the performance and implications of using 10 and 40 processing cores in machine learning tasks.
+3. **Predictions**: Focused on making predictions using machine learning models, this section offers hands-on examples and discusses various techniques and methodologies.
+4. **Scoring**: A quick looking into one way to  evaluate these machine learning pipelines
 
 ## Prerequisites
 To get the most out of this tutorial, you should have:
