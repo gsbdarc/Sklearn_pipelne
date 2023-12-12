@@ -1,12 +1,12 @@
 # Sklearn Pipeline Tutorial
 
 ## Overview
-This Jupyter notebook provides a quick tutorial on using the scikit-learn library for machine learning in Python. It uniquely combines discussions on the impact of hardware, specifically processing cores, with practical machine learning applications. Key sections include:
+This Jupyter notebook provides a quick tutorial on using the scikit-learn library for machine learning in Python. It combines discussions on the impact of hardware, specifically processing cores, with practical machine learning applications. Key sections include:
 
-1. **AI Generated Pipeline**: An introduction into a Chatgpt-generated skelarn pipeline for logistic regression using scikit-learn. This code is an excellent example of a classifc pipeline but greedily utilizes all cores which can cause issues on shared systems like the Yens
+1. **AI Generated Pipeline**: An introduction into a Chatgpt-generated scikit-learn pipeline for logistic regression using scikit-learn. This code is an example of a basic scikit-learn pipeline but greedily utilizes all cores which can cause issues on shared systems like the Yens.
 2. **Why Cores Matter**: This section shows the significance of processing cores in machine learning, providing insights into computational efficiency and performance.  A quick comparative study on the performance and implications of using 10 and 40 processing cores.
 3. **Predictions**: This section shows one way you might perform inference with pre-trained pipelines
-4. **Scoring**: A quick looking into one way to evaluate these machine learning pipelines outputs
+4. **Scoring**: A quick look into one way to evaluate these machine learning pipeline outputs
 
 ## Prerequisites
 To get the most out of this tutorial, you should have:
