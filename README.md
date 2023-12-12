@@ -1,7 +1,7 @@
 # Sklearn Pipeline Tutorial
 
 ## Overview
-This Jupyter notebook provides a comprehensive tutorial on using the scikit-learn library for machine learning in Python. It uniquely combines discussions on the impact of hardware, specifically processing cores, with practical machine learning applications. Key sections include:
+This Jupyter notebook provides a quick tutorial on using the scikit-learn library for machine learning in Python. It uniquely combines discussions on the impact of hardware, specifically processing cores, with practical machine learning applications. Key sections include:
 
 1. **Chat GPT**: An introduction to the Chat GPT concept, setting the stage for the tutorial.
 2. **Why Cores Matter**: This section shows the significance of processing cores in machine learning, providing insights into computational efficiency and performance.
