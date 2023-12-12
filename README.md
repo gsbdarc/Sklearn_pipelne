@@ -5,8 +5,8 @@ This Jupyter notebook provides a quick tutorial on using the scikit-learn librar
 
 1. **Chat GPT**: An introduction with some chat-gpt generated code which can cause issues on our system.
 2. **Why Cores Matter**: This section shows the significance of processing cores in machine learning, providing insights into computational efficiency and performance.  A comparative study on the performance and implications of using 10 and 40 processing cores in machine learning tasks.
-3. **Predictions**: Focused on making predictions using machine learning models, this section offers hands-on examples and discusses various techniques and methodologies.
-4. **Scoring**: A quick looking into one way to  evaluate these machine learning pipelines
+3. **Predictions**: This section shows one way you might perform inference with pre-trained pipelines
+4. **Scoring**: A quick looking into one way to evaluate these machine learning pipelines outputs
 
 ## Prerequisites
 To get the most out of this tutorial, you should have:
